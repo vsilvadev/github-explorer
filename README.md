@@ -24,7 +24,7 @@
 - [x] See the entire list of open issues and be directed to their page
 
 <h2>🖥 The Application<a name="application"></a></h2>
-<img src="https://github.com/vsilvadev/github-explorer/blob/main/git_files/github-explorergif.gif" alt="Running Application">
+<img src="https://github.com/vsilvadev/github-explorer/blob/main/git_files/github-explorer-projectgif.gif" alt="Running Application">
 
 <h2>❗ How to run<a name="how-to"></a></h2>
 <h3>Prerequisites</h3>
