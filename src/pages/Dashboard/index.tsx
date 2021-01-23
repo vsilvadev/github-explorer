@@ -43,7 +43,7 @@ const Dashboard: React.FC = () => {
     event.preventDefault();
 
     if (!newRepo) {
-      setInputError('Digite o autor/nome do repositório');
+      setInputError('You must enter the author/name of the repository');
       return;
     }
 
@@ -56,7 +56,7 @@ const Dashboard: React.FC = () => {
       setNewRepo('');
       setInputError('');
     } catch (err) {
-      setInputError('Erro na busca por esse repositório');
+      setInputError('Error searching for this repository');
     }
   }
 
@@ -69,7 +69,7 @@ const Dashboard: React.FC = () => {
         <input
           value={newRepo}
           onChange={e => setNewRepo(e.target.value)}
-          placeholder="Digite o nome do repositório"
+          placeholder="Enter the author/repository"
         />
         <button type="submit">Pesquisar</button>
       </Form>
