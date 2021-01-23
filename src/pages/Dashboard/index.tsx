@@ -71,7 +71,7 @@ const Dashboard: React.FC = () => {
           onChange={e => setNewRepo(e.target.value)}
           placeholder="Enter the author/repository"
         />
-        <button type="submit">Pesquisar</button>
+        <button type="submit">Search</button>
       </Form>
 
       {inputError && <Error>{inputError}</Error>}
