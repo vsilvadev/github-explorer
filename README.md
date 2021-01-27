@@ -3,7 +3,7 @@
 <img src="https://github.com/vsilvadev/github-explorer/blob/main/src/assets/logo.svg" alt="Github Explorer Logo">
 </div>
 
-<p align="center">GoFinances is a web-based finance control project aimed at making it easier for people to manage their money</p>
+<p align="center">Github explorer allows you to search for a specific repository so that the user can see some information about it</p>
 
 <h2>📋 Summary</h2>
   • <a href="#title">Title</a> <br>
